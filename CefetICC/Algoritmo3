@@ -1,0 +1,13 @@
+algoritmo "creuza"
+var
+  ano1, ano2, velas: inteiro
+
+inicio
+
+  ano1<- 2026
+  leia (ano2)
+  velas<- (ano1-ano2)
+
+  escreva (velas)
+
+fimalgoritmo
