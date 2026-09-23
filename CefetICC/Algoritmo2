@@ -1,0 +1,9 @@
+algoritmo"nome"
+var
+  numero: inteiro
+inicio
+  leia (numero)
+  numero <- RaizQ (numero)
+  escreval (numero)
+
+fimalgoritmo
