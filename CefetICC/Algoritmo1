@@ -1,0 +1,13 @@
+algoritmo"nome"
+var
+  msg: caractere
+  msg2: caractere
+inicio
+  msg <-"ola mundo"
+  escreval (msg)
+
+  escreval ("digite seu nome:")
+  leia (msg2)
+  escreva (msg2)
+
+fimalgoritmo
